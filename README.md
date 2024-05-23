@@ -6,11 +6,11 @@ O script principal realiza as seguintes etapas:
 
 ### Importação das Bibliotecas: pandas, matplotlib, seaborn e IPython.display.
 
-**Criação do DataFrame:** Dados de produtividade semanal são organizados em um DataFrame.
-Cálculo de Estatísticas Descritivas: Total e média diária de horas trabalhadas, bugs corrigidos e tarefas concluídas.
-Adição de Métrica de Produtividade: Calcula a produtividade como o número de tarefas concluídas por hora trabalhada.
-Visualização dos Dados: Gráficos de barras e de linha são gerados para ilustrar os dados.
-Insight sobre Bugs Corrigidos: Análise detalhada dos padrões de correção de bugs ao longo da semana.
+**Criação do DataFrame:** Dados de produtividade semanal são organizados em um DataFrame. <br> 
+**Cálculo de Estatísticas Descritivas:** Total e média diária de horas trabalhadas, bugs corrigidos e tarefas concluídas.  <br>
+**Adição de Métrica de Produtividade:** Calcula a produtividade como o número de tarefas concluídas por hora trabalhada. <br>
+**Visualização dos Dados:** Gráficos de barras e de linha são gerados para ilustrar os dados. <br>
+**Insight sobre Bugs Corrigidos:** Análise detalhada dos padrões de correção de bugs ao longo da semana. 
 <br>
 ### Gráficos Gerados
 - Horas Trabalhadas por Dia
